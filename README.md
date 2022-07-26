@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 -->
 
 
-https://www.buymeacoffee.com/ArtPaul
+![]() 
+
+[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
