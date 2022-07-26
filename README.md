@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am Paul, I love writing open source softwares.
+
+Every piece of software I write has a story or inspirations behind it. Read all the softwares
+
 <!--
 **PaulleDemon/PaulleDemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://www.buymeacoffee.com/ArtPaul
