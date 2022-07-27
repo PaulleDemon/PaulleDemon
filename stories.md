@@ -25,7 +25,7 @@ I created this as my end-semester project for my 5 sem. I designed and created a
 The instructions are executed sequentially and the current instruction being executed is highlighted.
 
 
-## [tkTimePiker](https://github.com/PaulleDemon/tkTimePicker)
+## [tkTimePicker](https://github.com/PaulleDemon/tkTimePicker)
 
 This was the first library that I published to PyPi and the one I was very proud of at that time. As the name sounds it is indeed a time picker, and it is made for tkinter python framework. The framework itself doesn't come with many widgets, so I created this time picker to make other people's life easier. This widget allows users to easily customize and comes with analog, modern, and spin time pickers.  The inspiration came from andriod analog alarm clock. I wanted a good looking timepicker so I created one for everyone. 
 
