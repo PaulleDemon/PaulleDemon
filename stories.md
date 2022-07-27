@@ -43,3 +43,21 @@ tkstylesheet is another library that I created to make it easier for styling tki
 ## [pyCollision](https://github.com/PaulleDemon/PyCollision)
 
 This library was created as a result of the problem that I faced while making a Tank Game using PyGame. At that time I wasn't aware that pygame had a way to detect pixel perfect collision by using `pygame.mask.from_surface()` and `pygame.sprite.collide_mask()`. So I started on journey to create one, which was flexible enough to control the precision of the collision and yet fast enough. The basic idea of collision was to draw a reatangle of given width and height by the user on a PNG transparent image. I then remove the rectangles over completely transparent parts of the image. The rectangles are stored in a numpy array, and when ever another a vertex or an edge of the another rectangle intersect, it alerts a collision.
+
+## [Hunter2](https://github.com/PaulleDemon/Hunter2)
+
+I always wanted to make a game by myself and play it. So this was the game I created by myself includng all the illustrations and icons. The games difficult increases dramatically with time. This was the time when I properly understood what normalization ment. The collision problem in this game is what lead me to creat PyCollision library.
+
+
+## [SHome](https://github.com/PaulleDemon/SHomes)
+
+This was my 6th semeter IOT project that I had taken up. I took up this project to improvise on my idea that I hade presented on engineers day in my first year. This is a smart home software makes use of facial recognition and changes the room ambience according to the person in the room.
+The user can easily register and preset the users desired ambience and vola! the room ambience changes automatically.
+
+
+## [Music App](https://github.com/PaulleDemon/MusicApp)
+
+I took up this project to take a break from PythonDesigner. This is a aesthetically pleasing desktop music player that loads musics from your local computer. The player also provides statics on what songs you listen the most, search songs, ability to add songs to your favorites or collections.
+
+
+While there are many other projects that I wrote, I couldn't write the stories each of them here. So I leave it here. Thank you for reading.
