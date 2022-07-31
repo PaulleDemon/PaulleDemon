@@ -3,13 +3,17 @@
 
 ## LonersMafia - [lonersmafia.com](lonersmafia.com) 
 
-As the name suggest this was indeed created because I was feeling lonely. It was frustrating not being able to find someone whom I could trust to tell things that I always wanted to. I was afraid that if I would speak my mind, it would spread like wild fire. Its important that you speak out your mind atleast once in a while, without having to worry about what other people would think of you or without being taunted for a message you shared 5-10 years ago. 
+As the name suggest this was indeed created because I was feeling lonely. It was frustrating not being able to find someone whom I could trust to tell things that I always wanted to. I was afraid that if I would speak my mind to someone, 10 other people would get to know. Its important that we speak out your mind atleast once in a while, without having to worry about what other people would think of you or without being taunted for a message you shared 5-10 years ago. 
 
-on 11th July eve, I was out on a walk; very angry due, to the fact that I was not able to share things to people and it was frustrating. Thats when an idea struck, I could make a completely anonymous platform where, not just me, but you and everone could share things they always wanted to, without being taunted for it after 5-10 years from now.
+on 11th July eve, I was out on a walk; very angry due, to the fact that I was not able to share things to people and it was frustrating. Thats when an idea struck, I would make a completely anonymous platform where, not just me, but you and everone could share things they always wanted to, without being taunted for it after 5-10 years from now.  
+
+Initially, when I made this the users didn't have to log back in or enter a password as it would automatically log you in based on your IP address. Well you could see the problem with this couldn't you? Yes as you would have guessed the IP address keeps changing and getting resassigned. It was only on 26th of July when I thought the project was complete, I got to know that the IP gets reassigned everytime you connect to the network. 
+
+So I tried researching on other ways of logging users in without password, looking for something unqiue in each device. After searching for for 3 days, the only thing I came across was browser fingerprinting, so I decided to fall back to password login.  
 
 It was supposed to be called only loners, but then I was so facinated by the Thomas Shelby clips on Youtube that I decide to add the word mafia at the end. The bunny icon was inspired from the PlayBoy logo. 
 
-To Build this I took out a week long break from my college, which didn't go well with professors. Working on this project was indeed painful as there is always college in my way to stop me. I consider attending college classes  a waste of time 🤪. 
+To Build this I took out a week long break from my college, which didn't go well with my professors. Working on this project was indeed painful as there is always college in my way to stop me. I consider attending college classes a waste of time 🤪. 
 
 
 
