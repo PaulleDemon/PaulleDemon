@@ -29,13 +29,10 @@ Here go through this blog I wrote on AWS just for you: https://github.com/Paulle
 
 ------
 
-> "You can't learn to swim by reading a book. You have to dive right in." - Paul, 2022 
-
-Same goes for programming dive right into creating project if you want to get good at it.
 
 #### Other profiles
 
-Checkout some of the website designs on Behance
+Checkout some of my website designs on Behance
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/behance.png" height="100px" width="100px">](https://www.behance.net/paulsajo)
 
@@ -49,6 +46,6 @@ I am known as Art in stackoverflow
 <a href="https://stackexchange.com/users/21676875"><img src="https://stackexchange.com/users/flair/21676875.png" width="208" height="58" alt="profile for Art on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Art on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-If you love my open-source project consider buying me a cup of coffee. It will give me energy to write more open-source projects. Thank you.
+If you love my open-source projects consider buying me a cup of coffee. This give me energy to write more open-source projects. Thank you.
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
