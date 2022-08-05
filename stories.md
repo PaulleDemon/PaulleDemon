@@ -11,7 +11,7 @@ Initially, when I made this the users didn't have to log back in or enter a pass
 
 So I tried researching on other ways of logging users in without password, looking for something unqiue in each device. After searching for for 3 days, the only thing I came across was browser fingerprinting, so I decided to fall back to password login.  
 
-It was supposed to be called only loners, but then I was so facinated by the Thomas Shelby clips on Youtube that I decide to add the word mafia at the end. The bunny icon was inspired from the PlayBoy logo. 
+It was supposed to be called only loners, but then I was so facinated by the Thomas Shelby clips on Youtube that I decide to add the word mafia at the end. 
 
 To Build this I took out a week long break from my college, which didn't go well with my professors. Working on this project was indeed painful as there is always college in my way to stop me. I consider attending college classes a waste of time 🤪. 
 
