@@ -6,7 +6,7 @@
 
 ## I am Paul, I love writing open source softwares.
 
-Bsides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
+Besides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
 
 #### Want to chat anonymously? 
 Go ahead and chat on [loners mafia](https://lonersmafia.com), made just for you, so you can speak your mind.
