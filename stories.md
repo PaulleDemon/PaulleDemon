@@ -1,6 +1,13 @@
 
 ### The stories and inspiration behind every piece of software.
 
+## AdoStrings - [source code](https://github.com/PaulleDemon/AdoStrings-support)
+
+Ever found yourself in an orginazation and not knowing to contact the right set of people for the job, or been in an university and finding it hard to find people with similar interests? Well AdoStrings is just made to help you find people. AdoStrings is an open-sourced private networks for colleges and orginazation. Users within an orginazation or university can write stories, make requests that will be notified to the right set of people, and notify upcoming events.
+
+This was done as part of our final semester project. Me and my team mate Manas Sharma, were brainstorming ideas, for the final year project, considering the fact that we were coming towards the end of college life, we decided to make something that would make an impact within the college. Our college has multiple canteens, many of which are crowed, So the first idea we had was to create a crowd control application for canteen, the basic idea was to use computer vision or heat maps and notify students and staff of the least crowed canteen in the campus we had also planned on adding
+
+
 ## LonersMafia - [lonersmafia.com](lonersmafia.com) 
 
 **source code for this project**: [source code](https://github.com/PaulleDemon/LonersMafia-support#source-code)
