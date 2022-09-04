@@ -13,7 +13,7 @@ Finding people using this application got much simpler using the search or the p
 
 TLDR - we created a network for college that helps people find people
 
-(The important idea on how we landed on AdoStrings will purposefully omitted, if you want to know the complete picture ask Paul personally don't force anyone else on the team)
+(The important idea on how we came up with this project idea is purposefully omitted, if you want to know the complete picture ask Paul personally don't force anyone else on the team)
 
 
 ## LonersMafia - [lonersmafia.com](lonersmafia.com) 
