@@ -83,4 +83,4 @@ The user can easily register and preset the users desired ambience and vola! the
 I took up this project to take a break from PythonDesigner. This is a aesthetically pleasing desktop music player that loads musics from your local computer. The player also provides statics on what songs you listen the most, search songs, ability to add songs to your favorites or collections.
 
 
-While there are many other projects that I wrote, I couldn't write the stories each of them here. So I leave it here. Thank you for reading.
+**While there are many other projects that I wrote, I couldn't write the stories each of them here. So I leave it here. Thank you for reading.**
