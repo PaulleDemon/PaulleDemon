@@ -30,6 +30,9 @@ Go ahead and chat on [loners mafia](https://lonersmafia.com), made just for you,
 
 Here go through this blog I wrote on AWS just for you: https://github.com/PaulleDemon/AWS-deployment 
 
+### Cool trick you probably didn't know on github.: 
+Go to a repository and hit the `.` key and watch the repository open in Web VsCode
+
 ------
 
 
