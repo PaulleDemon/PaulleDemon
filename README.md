@@ -9,7 +9,7 @@
 Besides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
 
 #### Want to chat anonymously?  
-Go ahead and chat on [loners mafia](https://lonersmafia.com) [temoprarily down], made just for you, so you can speak your mind.
+Go ahead and chat on [loners mafia](https://lonersmafia.com) [temporarily down], made just for you, so you can speak your mind.
 
 #### Every piece of software I write has a story or inspirations behind it. Read the stories behind why I created some of the projects: 
 
