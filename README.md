@@ -8,8 +8,11 @@
 
 Besides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
 
+#### Want a private newtorking platform for your university or Organization?  
+Go ahead and create your organization on [AdoStrings](https://adostrings.com). AdoStrings is a private social network for universities and organization. 
+
 #### Want to chat anonymously?  
-Go ahead and chat on [loners mafia](https://lonersmafia.com) [temporarily down], made just for you, so you can speak your mind.
+Go ahead and chat on [loners mafia](https://lonersmafia.com) [temporarily shutdown], made just for you, so you can speak your mind.
 
 #### Every piece of software I write has a story or inspirations behind it. Read the stories behind why I created some of the projects: 
 
