@@ -43,7 +43,7 @@ Go to a repository and hit the `.` key and watch the repository open in Web VsCo
 
 Checkout some of my website designs on Behance
 
-[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/behance.png" height="100px" width="100px">](https://www.behance.net/paulsajo)
+[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/behance.png" height="100px" width="100px">](https://www.behance.net/paulledemon)
 
 
 Check out my 3d modeling I did sometime ago on artstation
