@@ -14,9 +14,9 @@ Go ahead and create your organization on [AdoStrings](https://adostrings.com). A
 #### Want to chat anonymously?  
 Go ahead and chat on [loners mafia](https://lonersmafia.com) [temporarily shutdown], made just for you, so you can speak your mind.
 
-#### Every piece of software I write has a story or inspirations behind it. Read the stories behind why I created some of the projects: 
+<!-- #### Every piece of software I write has a story or inspirations behind it. Read the stories behind why I created some of the projects: 
 
-[Pauls software stories](https://github.com/PaulleDemon/PaulleDemon/blob/main/stories.md)
+[Pauls software stories](https://github.com/PaulleDemon/PaulleDemon/blob/main/stories.md) -->
 
 #### open source python libraries:
 * [tkvideoplayer](https://pypi.org/project/tkvideoplayer/)
