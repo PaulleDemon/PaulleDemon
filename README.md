@@ -61,3 +61,7 @@ I am known as Art in stackoverflow
 If you love my open-source projects consider buying me a cup of coffee. This give me energy to write more open-source projects. Thank you.
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
+
+#### Subscribe to my Gumroad where I release some of my exclusive products
+
+https://paulfreeman.gumroad.com/subscribe
