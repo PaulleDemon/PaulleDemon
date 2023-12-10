@@ -8,9 +8,6 @@
 
 Besides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
 
-### want your own community platform?
-Go ahead and check out https://sales.adostrings.com/. 
-
 #### open source python libraries:
 * [tkvideoplayer](https://pypi.org/project/tkvideoplayer/)
 * [tktimepicker](https://pypi.org/project/tkTimePicker/)
