@@ -49,6 +49,7 @@ If you love my open-source projects consider buying me a cup of coffee. This giv
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
-#### Subscribe to my Gumroad where I release some of my exclusive products
+#### Get some of my products on Gumroad
 
-https://paulfreeman.gumroad.com/subscribe
+[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/gumroad.png" height="150px" width="150px">](https://foxcraft.gumroad.com/)
+
