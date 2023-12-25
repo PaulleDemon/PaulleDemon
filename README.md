@@ -49,7 +49,11 @@ If you love my open-source projects consider buying me a cup of coffee. This giv
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
-#### Get some of my products on Gumroad
+### Try some of my products on Gumroad
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/gumroad.png" height="150px" width="150px">](https://foxcraft.gumroad.com/)
 
+### want to earn while you sleep?
+Now earn 10%-20% commission as an affiliate for every sale attributed to your link (approx up to $2500 for every 50 sold) 
+
+To join add your social link in your request: [Affiliate form](https://foxcraft.gumroad.com/affiliates)
