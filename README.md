@@ -53,6 +53,13 @@ If you love my open-source projects consider buying me a cup of coffee. This giv
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/gumroad.png" height="150px" width="150px">](https://foxcraft.gumroad.com/)
 
+### Join discord server
+Join our discord server were we discuss about AWS deployment, programming, tech and more:
+
+
+[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/discord-logo.png" height="150px" width="250px">](https://discord.gg/ZykyakWXdc)
+
+
 ### want to earn while you sleep?
 Now earn 10%-20% commission as an affiliate for every sale attributed to your link (approx up to $2500 for every 50 sold) 
 
