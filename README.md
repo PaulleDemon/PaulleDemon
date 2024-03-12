@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-## I am Paul, I love writing open source softwares.
+## I am Paul, I love writing open-source software.
 
-Besides that I also love sketching, 3d modeling, website designing, illustrations and birds 🦚
+Besides that I also love developing websites, sketching, 3d modeling, website designing, illustrations, and birds 🦚
 
 #### open source python libraries:
 * [tkvideoplayer](https://pypi.org/project/tkvideoplayer/)
@@ -31,36 +31,21 @@ Go to a repository and hit the `.` key and watch the repository open in Web VsCo
 
 #### Other profiles
 
-Checkout some of my website designs on Behance
+Check out some of my website designs on Behance
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/behance.png" height="100px" width="100px">](https://www.behance.net/paulledemon)
 
 
-Check out my 3d modeling I did sometime ago on artstation
+Check out my 3d modeling I did some time ago on Artstation
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/artstation-logo-horizontal-dark.png" height="100px" width="300px">](https://www.artstation.com/uf784078a)
 
-I am known as Art in stackoverflow 
+I am known as Art in Stackoverflow 
 
 <a href="https://stackexchange.com/users/21676875"><img src="https://stackexchange.com/users/flair/21676875.png" width="208" height="58" alt="profile for Art on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Art on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-If you love my open-source projects consider buying me a cup of coffee. This give me energy to write more open-source projects. Thank you.
+If you love my open-source projects consider buying me a cup of coffee. Thank you.
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
-### Try some of my products on Gumroad
-
-[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/gumroad.png" height="150px" width="150px">](https://foxcraft.gumroad.com/)
-
-### Join discord server
-Join our discord server were we discuss about AWS deployment, programming, tech and more:
-
-
-[<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/discord-logo.png" height="150px" width="250px">](https://discord.gg/ZykyakWXdc)
-
-
-### want to earn while you sleep?
-Now earn 10%-20% commission as an affiliate for every sale attributed to your link (approx up to $2500 for every 50 sold) 
-
-To join add your social link in your request: [Affiliate form](https://foxcraft.gumroad.com/affiliates)
