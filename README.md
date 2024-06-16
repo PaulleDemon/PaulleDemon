@@ -23,8 +23,8 @@ Besides that I also love developing websites, sketching, 3d modeling, website de
 
 Here go through this blog I wrote on AWS just for you: https://github.com/PaulleDemon/AWS-deployment 
 
-### Cool trick you probably didn't know on github.: 
-Go to a repository and hit the `.` key and watch the repository open in Web VsCode
+### Cool trick you probably didn't know on Git Hub.: 
+Go to a repository hit the `.` key and watch the repository open in Web VsCode
 
 ------
 
@@ -48,4 +48,7 @@ I am known as Art in Stackoverflow
 If you love my open-source projects consider buying me a cup of coffee. Thank you.
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
+
+### Looking for website templates?
+Check out premium and free [website templates](https://templates.foxcraft.tech)
 
