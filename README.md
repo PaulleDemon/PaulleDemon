@@ -52,3 +52,5 @@ If you love my open-source projects consider buying me a cup of coffee. Thank yo
 ### Looking for website templates?
 Check out premium and free [website templates](https://templates.foxcraft.tech)
 
+### Looking for Django themes and templates?
+Check out <a href="https://templates.foxcraft.tech/django-website-templates">Django website templates</a> and supercharge your Django web development
