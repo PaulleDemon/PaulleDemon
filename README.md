@@ -49,8 +49,6 @@ If you love my open-source projects consider buying me a cup of coffee. Thank yo
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
-### Looking for website templates?
-Check out premium and free [website templates](https://templates.foxcraft.tech)
+### Looking for Django developer?
+Contact me and I'll speed up your django development: https://tally.so/r/wQDPYG
 
-### Looking for Django themes and templates?
-Check out <a href="https://templates.foxcraft.tech/django-website-templates">Django website templates</a> and supercharge your Django web development
