@@ -50,5 +50,4 @@ If you love my open-source projects consider buying me a cup of coffee. Thank yo
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
 ### Looking for Django developer?
-Contact me and I'll speed up your django development: https://tally.so/r/wQDPYG
-
+Check out [Django developers](https://templates.foxcraft.tech/django-developer) to speed up your django project
