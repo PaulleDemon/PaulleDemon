@@ -49,5 +49,5 @@ If you love my open-source projects consider buying me a cup of coffee. Thank yo
 
 [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
 
-### Looking for Django developer?
-Check out [Django developers](https://templates.foxcraft.tech/django-developer) to speed up your django project
+### Looking for Django developer or landing page developer?
+Contact me for custom works regarding Django, Landing page, Extension, React and more.  [Contact developer](https://tally.so/r/woO0Kx) to speed up your django project
